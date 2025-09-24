@@ -1,0 +1,274 @@
+{
+  "search_info": {
+    "route": "KUL → DAC",
+    "date": "2025-10-01",
+    "search_time": "2025-09-25T02:22:04.650240",
+    "currency": "MYR"
+  },
+  "flights": [
+    {
+      "flight_id": "1-0",
+      "airline": "AirAsia Berhad (Malaysia)",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T2",
+          "city": null,
+          "time": "20:05",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": null,
+          "city": null,
+          "time": "22:00",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 618
+    },
+    {
+      "flight_id": "2-1",
+      "airline": "FitsAir",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T2",
+          "city": null,
+          "time": "16:30",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "01:15",
+          "date": null
+        }
+      },
+      "duration": "10h 45m",
+      "amenities": [
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 463
+    },
+    {
+      "flight_id": "2-2",
+      "airline": "Biman Bangladesh Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "02:30",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "04:20",
+          "date": null
+        }
+      },
+      "duration": "3h 50m",
+      "amenities": [
+        "meal"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1435
+    },
+    {
+      "flight_id": "2-3",
+      "airline": "Malaysia Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "23:00",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "00:55",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [
+        "charging",
+        "meal",
+        "entertainment"
+      ],
+      "co2_reduction": "- 11% CO2e",
+      "availability_warning": "<5 left",
+      "base_price": 1188
+    },
+    {
+      "flight_id": "2-4",
+      "airline": "US-Bangla Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "15:50",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "17:50",
+          "date": null
+        }
+      },
+      "duration": "4h",
+      "amenities": [
+        "meal"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1506
+    },
+    {
+      "flight_id": "2-5",
+      "airline": "Batik Air Malaysia",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "20:15",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "22:10",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [
+        "entertainment"
+      ],
+      "co2_reduction": "- 11% CO2e",
+      "availability_warning": null,
+      "base_price": 1052
+    },
+    {
+      "flight_id": "2-6",
+      "airline": "Air India",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "08:05",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "20:20",
+          "date": null
+        }
+      },
+      "duration": "14h 15m",
+      "amenities": [
+        "charging",
+        "meal",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 617
+    },
+    {
+      "flight_id": "2-7",
+      "airline": "Thai Airways",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "20:55",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "01:25",
+          "date": null
+        }
+      },
+      "duration": "6h 30m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 985
+    },
+    {
+      "flight_id": "2-9",
+      "airline": "Indigo",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "05:45",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": null,
+          "city": null,
+          "time": "16:15",
+          "date": null
+        }
+      },
+      "duration": "12h 30m",
+      "amenities": [],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 781
+    }
+  ]
+}
