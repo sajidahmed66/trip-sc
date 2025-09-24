@@ -1,0 +1,299 @@
+2025-09-25 01:08:27,710 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:08:27,710 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:08:31,020 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:08:36,134 | INFO | Loading skeleton detected. Waiting for it to disappear...
+2025-09-25 01:09:36,141 | WARNING | Timed out waiting for loading skeleton to disappear. Proceeding anyway.
+2025-09-25 01:10:36,954 | ERROR | No flight cards found within 60s.
+2025-09-25 01:10:37,143 | INFO | Script finished with non-zero exit code 2
+2025-09-25 01:19:25,234 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:19:25,234 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:19:27,943 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:30:38,611 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:30:38,611 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:30:41,309 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:30:46,382 | INFO | === PAGE DEBUG INFO ===
+2025-09-25 01:30:46,386 | INFO | Page title: Flights from Kuala Lumpur to Dhaka | Trip.com
+2025-09-25 01:30:46,386 | INFO | Current URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:30:46,464 | INFO | Found container '.m-main-list': 1 elements
+2025-09-25 01:30:46,484 | INFO | Found container '[class*='flight']': 279 elements
+2025-09-25 01:30:46,489 | INFO | Found container '[class*='result']': 58 elements
+2025-09-25 01:30:46,495 | INFO | Found container '[class*='list']': 199 elements
+2025-09-25 01:30:46,511 | INFO | Main content preview: Hotels & Homes
+Flights
+Trains
+Car services
+App
+MYR
+Customer support
+Find bookings
+Sign in / Register
+Flights from Kuala Lumpur to Dhaka | Trip.com
+Round-trip
+One-way
+Multi-city
+Nonstop
+Kuala Lumpur
+All airports
+Dhaka
+All airports
+1 adult · Economy
+Search
+Wed, Sep 24
+View
+Thu, Sep 25
+MYR 536
+Fri, Sep 26
+MYR 535
+Sat, Sep 27
+MYR 614
+Sun, Sep 28
+MYR 618
+Mon, Sep 29
+MYR 618
+Tue, Sep 30
+MYR 618
+Wed, Oct 1
+MYR 463
+Thu, Oct 2
+MYR 612
+Fri, Oct 3
+MYR 565
+Sat, Oct 4
+MYR 1,044
+Sun, Oct 5
+MYR 841
+Mon, Oct 6
+
+2025-09-25 01:33:32,387 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:33:32,387 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:33:35,399 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:33:40,468 | INFO | === PAGE DEBUG INFO ===
+2025-09-25 01:33:40,503 | INFO | Page title: Flights from Kuala Lumpur to Dhaka | Trip.com
+2025-09-25 01:33:40,503 | INFO | Current URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:33:40,555 | INFO | Found container '.m-main-list': 1 elements
+2025-09-25 01:33:40,573 | INFO | Found container '[class*='flight']': 279 elements
+2025-09-25 01:33:40,577 | INFO | Found container '[class*='result']': 58 elements
+2025-09-25 01:33:40,584 | INFO | Found container '[class*='list']': 232 elements
+2025-09-25 01:33:40,601 | INFO | Main content preview: Hotels & Homes
+Flights
+Trains
+Car services
+App
+MYR
+Customer support
+Find bookings
+Sign in / Register
+Flights from Kuala Lumpur to Dhaka | Trip.com
+Round-trip
+One-way
+Multi-city
+Nonstop
+Kuala Lumpur
+All airports
+Dhaka
+All airports
+1 adult · Economy
+Search
+Wed, Sep 24
+View
+Thu, Sep 25
+MYR 536
+Fri, Sep 26
+MYR 535
+Sat, Sep 27
+MYR 614
+Sun, Sep 28
+MYR 618
+Mon, Sep 29
+MYR 618
+Tue, Sep 30
+MYR 618
+Wed, Oct 1
+MYR 463
+Thu, Oct 2
+MYR 612
+Fri, Oct 3
+MYR 565
+Sat, Oct 4
+MYR 1,044
+Sun, Oct 5
+MYR 841
+Mon, Oct 6
+
+2025-09-25 01:34:33,008 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:34:33,008 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:34:35,587 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:34:40,653 | INFO | === PAGE DEBUG INFO ===
+2025-09-25 01:34:40,656 | INFO | Page title: Flights from Kuala Lumpur to Dhaka | Trip.com
+2025-09-25 01:34:40,656 | INFO | Current URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:34:40,709 | INFO | Found container '.m-main-list': 1 elements
+2025-09-25 01:34:40,731 | INFO | Found container '[class*='flight']': 279 elements
+2025-09-25 01:34:40,737 | INFO | Found container '[class*='result']': 58 elements
+2025-09-25 01:34:40,743 | INFO | Found container '[class*='list']': 232 elements
+2025-09-25 01:34:40,761 | INFO | Main content preview: Hotels & Homes
+Flights
+Trains
+Car services
+App
+MYR
+Customer support
+Find bookings
+Sign in / Register
+Flights from Kuala Lumpur to Dhaka | Trip.com
+Round-trip
+One-way
+Multi-city
+Nonstop
+Kuala Lumpur
+All airports
+Dhaka
+All airports
+1 adult · Economy
+Search
+Wed, Sep 24
+View
+Thu, Sep 25
+MYR 536
+Fri, Sep 26
+MYR 535
+Sat, Sep 27
+MYR 614
+Sun, Sep 28
+MYR 618
+Mon, Sep 29
+MYR 618
+Tue, Sep 30
+MYR 618
+Wed, Oct 1
+MYR 463
+Thu, Oct 2
+MYR 612
+Fri, Oct 3
+MYR 565
+Sat, Oct 4
+MYR 1,044
+Sun, Oct 5
+MYR 841
+Mon, Oct 6
+
+2025-09-25 01:34:40,761 | INFO | Waiting for flight cards to load...
+2025-09-25 01:34:40,784 | INFO | Flight cards detected, proceeding with extraction...
+2025-09-25 01:35:58,110 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:35:58,110 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:36:00,617 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:36:05,685 | INFO | === PAGE DEBUG INFO ===
+2025-09-25 01:36:05,688 | INFO | Page title: Flights from Kuala Lumpur to Dhaka | Trip.com
+2025-09-25 01:36:05,688 | INFO | Current URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:36:05,740 | INFO | Found container '.m-main-list': 1 elements
+2025-09-25 01:36:05,759 | INFO | Found container '[class*='flight']': 277 elements
+2025-09-25 01:36:05,764 | INFO | Found container '[class*='result']': 60 elements
+2025-09-25 01:36:05,768 | INFO | Found container '[class*='list']': 200 elements
+2025-09-25 01:36:05,788 | INFO | Main content preview: Hotels & Homes
+Flights
+Trains
+Car services
+App
+MYR
+Customer support
+Find bookings
+Sign in / Register
+Flights from Kuala Lumpur to Dhaka | Trip.com
+Round-trip
+One-way
+Multi-city
+Nonstop
+Kuala Lumpur
+All airports
+Dhaka
+All airports
+1 adult · Economy
+Search
+Wed, Sep 24
+View
+Thu, Sep 25
+MYR 536
+Fri, Sep 26
+MYR 535
+Sat, Sep 27
+MYR 614
+Sun, Sep 28
+MYR 618
+Mon, Sep 29
+MYR 618
+Tue, Sep 30
+MYR 618
+Wed, Oct 1
+MYR 463
+Thu, Oct 2
+MYR 612
+Fri, Oct 3
+MYR 565
+Sat, Oct 4
+MYR 1,044
+Sun, Oct 5
+MYR 841
+Mon, Oct 6
+
+2025-09-25 01:36:05,788 | INFO | Waiting for flight cards to load...
+2025-09-25 01:36:05,812 | INFO | Flight cards detected, proceeding with extraction...
+2025-09-25 01:36:05,826 | INFO | Flight pricing data loaded
+2025-09-25 01:37:22,038 | INFO | Starting Trip.com flight scrape
+2025-09-25 01:37:22,038 | INFO | Target URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:37:24,649 | INFO | Page loaded (domcontentloaded). Waiting 5s for initial render...
+2025-09-25 01:37:29,707 | INFO | === PAGE DEBUG INFO ===
+2025-09-25 01:37:29,710 | INFO | Page title: Flights from Kuala Lumpur to Dhaka | Trip.com
+2025-09-25 01:37:29,710 | INFO | Current URL: https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR
+2025-09-25 01:37:29,760 | INFO | Found container '.m-main-list': 1 elements
+2025-09-25 01:37:29,786 | INFO | Found container '[class*='flight']': 279 elements
+2025-09-25 01:37:29,791 | INFO | Found container '[class*='result']': 58 elements
+2025-09-25 01:37:29,797 | INFO | Found container '[class*='list']': 199 elements
+2025-09-25 01:37:29,815 | INFO | Main content preview: Hotels & Homes
+Flights
+Trains
+Car services
+App
+MYR
+Customer support
+Find bookings
+Sign in / Register
+Flights from Kuala Lumpur to Dhaka | Trip.com
+Round-trip
+One-way
+Multi-city
+Nonstop
+Kuala Lumpur
+All airports
+Dhaka
+All airports
+1 adult · Economy
+Search
+Wed, Sep 24
+View
+Thu, Sep 25
+MYR 536
+Fri, Sep 26
+MYR 535
+Sat, Sep 27
+MYR 614
+Sun, Sep 28
+MYR 618
+Mon, Sep 29
+MYR 618
+Tue, Sep 30
+MYR 618
+Wed, Oct 1
+MYR 463
+Thu, Oct 2
+MYR 612
+Fri, Oct 3
+MYR 565
+Sat, Oct 4
+MYR 1,044
+Sun, Oct 5
+MYR 841
+Mon, Oct 6
+
+2025-09-25 01:37:29,815 | INFO | Waiting for flight cards to load...
+2025-09-25 01:37:29,839 | INFO | Flight cards detected, proceeding with extraction...
+2025-09-25 01:37:29,849 | INFO | Flight pricing data loaded
+2025-09-25 01:37:29,854 | INFO | Loading skeleton detected. Waiting for it to disappear...
