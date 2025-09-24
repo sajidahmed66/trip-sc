@@ -432,7 +432,7 @@ class TripFlightScraper:
 
 async def main():
     """Main function to run the scraper"""
-    url = "https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-01&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR"
+    url = "https://www.trip.com/flights/showfarefirst?dcity=kul&acity=dac&ddate=2025-10-02&rdate=2025-10-04&triptype=ow&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t&nonstoponly=off&locale=en-XX&curr=MYR"
 
     scraper = TripFlightScraper(headless=False, timeout=60000)  # Set to False to see browser
 

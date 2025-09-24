@@ -1,0 +1,311 @@
+{
+  "search_info": {
+    "route": "KUL → DAC",
+    "date": "2025-10-01",
+    "search_time": "2025-09-25T02:33:32.384507",
+    "currency": "MYR"
+  },
+  "flights": [
+    {
+      "flight_id": "1-0",
+      "airline": "Batik Air Malaysia",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "20:55",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "22:50",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [],
+      "co2_reduction": "- 11% CO2e",
+      "availability_warning": null,
+      "base_price": 770
+    },
+    {
+      "flight_id": "2-1",
+      "airline": "Batik Air Malaysia",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "20:55",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "22:50",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [
+        "entertainment"
+      ],
+      "co2_reduction": "- 11% CO2e",
+      "availability_warning": null,
+      "base_price": 748
+    },
+    {
+      "flight_id": "2-2",
+      "airline": "US-Bangla Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "15:50",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "17:45",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [
+        "meal"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1506
+    },
+    {
+      "flight_id": "2-3",
+      "airline": "Srilankan Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "08:50",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "11:30",
+          "date": null
+        }
+      },
+      "duration": "28h 40m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 613
+    },
+    {
+      "flight_id": "2-4",
+      "airline": "Air India",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "08:05",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "20:20",
+          "date": null
+        }
+      },
+      "duration": "14h 15m",
+      "amenities": [
+        "charging",
+        "meal",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 617
+    },
+    {
+      "flight_id": "2-6",
+      "airline": "Batik Air Malaysia",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "22:20",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "00:10",
+          "date": null
+        }
+      },
+      "duration": "3h 50m",
+      "amenities": [
+        "charging",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1052
+    },
+    {
+      "flight_id": "2-7",
+      "airline": "Srilankan Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "15:00",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "11:30",
+          "date": null
+        }
+      },
+      "duration": "22h 30m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 703
+    },
+    {
+      "flight_id": "2-9",
+      "airline": "Indigo",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "05:45",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": null,
+          "city": null,
+          "time": "16:15",
+          "date": null
+        }
+      },
+      "duration": "12h 30m",
+      "amenities": [],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 861
+    },
+    {
+      "flight_id": "2-10",
+      "airline": "Singapore Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T2",
+          "city": null,
+          "time": "18:25",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "22:40",
+          "date": null
+        }
+      },
+      "duration": "6h 15m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1347
+    },
+    {
+      "flight_id": "2-11",
+      "airline": "Singapore Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "10:40",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "22:40",
+          "date": null
+        }
+      },
+      "duration": "14h",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1233
+    }
+  ]
+}

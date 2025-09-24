@@ -1,0 +1,1129 @@
+{
+  "search_info": {
+    "route": "KUL → DAC",
+    "date": "2025-10-01",
+    "search_time": "2025-09-25T02:43:15.996184",
+    "currency": "MYR"
+  },
+  "flights": [
+    {
+      "flight_id": "2-0",
+      "airline": "AirAsia Berhad (Malaysia)",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T2",
+          "city": null,
+          "time": "20:05",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": null,
+          "city": null,
+          "time": "22:00",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 786,
+      "fare_options": [
+        {
+          "fare_type": "Economy class",
+          "price": 786,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable",
+            "change_fee": "Change fee: from MYR 132"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-1",
+      "airline": "Batik Air Malaysia",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "20:55",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "22:50",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [
+        "entertainment"
+      ],
+      "co2_reduction": "- 11% CO2e",
+      "availability_warning": null,
+      "base_price": 748,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 748,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 381",
+            "change_fee": "Change fee: from MYR 381"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 755,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable",
+            "change_fee": "Changes not permitted"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 914,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 500",
+            "change_fee": "First ticket change is free"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1014,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 500",
+            "change_fee": "First ticket change is free"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-2",
+      "airline": "US-Bangla Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "15:50",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "17:45",
+          "date": null
+        }
+      },
+      "duration": "3h 55m",
+      "amenities": [
+        "meal"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1506,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 1506,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 250",
+            "change_fee": "Change fee: from MYR 0"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1559,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 251",
+            "change_fee": "Change fee: from MYR 0"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-3",
+      "airline": "Srilankan Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "08:50",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "11:30",
+          "date": null
+        }
+      },
+      "duration": "28h 40m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 613,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 613,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 450",
+            "change_fee": "Change fee: from MYR 225"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 684,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 450",
+            "change_fee": "Change fee: from MYR 225"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 710,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 450",
+            "change_fee": "Change fee: from MYR 225"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-4",
+      "airline": "Air India",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "08:05",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "20:20",
+          "date": null
+        }
+      },
+      "duration": "14h 15m",
+      "amenities": [
+        "charging",
+        "meal",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 617,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 617,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 456",
+            "change_fee": "Change fee: from MYR 228"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 625,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 456",
+            "change_fee": "Change fee: from MYR 228"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 670,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 228",
+            "change_fee": "Change fee: from MYR 29"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 813,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 57",
+            "change_fee": "Change fee: from MYR 0"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-6",
+      "airline": "Batik Air Malaysia",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "22:20",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "00:10",
+          "date": null
+        }
+      },
+      "duration": "3h 50m",
+      "amenities": [
+        "charging",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1052,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 1052,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 576",
+            "change_fee": "Change fee: from MYR 576"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1064,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable",
+            "change_fee": "Changes not permitted"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1204,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 500",
+            "change_fee": "First ticket change is free"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1316,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 500",
+            "change_fee": "Change fee: from MYR 0"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-7",
+      "airline": "Srilankan Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "15:00",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T1",
+          "city": null,
+          "time": "11:30",
+          "date": null
+        }
+      },
+      "duration": "22h 30m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 703,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 703,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 450",
+            "change_fee": "Change fee: from MYR 241"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 773,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 450",
+            "change_fee": "Change fee: from MYR 225"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 932,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 400",
+            "change_fee": "Change fee: from MYR 175"
+          }
+        },
+        {
+          "fare_type": "Business",
+          "price": 2515,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 600",
+            "change_fee": "Change fee: from MYR 450"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-9",
+      "airline": "Indigo",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "05:45",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": null,
+          "city": null,
+          "time": "16:15",
+          "date": null
+        }
+      },
+      "duration": "12h 30m",
+      "amenities": [],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 861,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 861,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable",
+            "change_fee": "Changes not permitted"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 996,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable",
+            "change_fee": "Changes not permitted"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1073,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable",
+            "change_fee": "Changes not permitted"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-10",
+      "airline": "Singapore Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T2",
+          "city": null,
+          "time": "18:25",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "22:40",
+          "date": null
+        }
+      },
+      "duration": "6h 15m",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1347,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 1347,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 632",
+            "change_fee": "Change fee: from MYR 211"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1381,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 632",
+            "change_fee": "Change fee: from MYR 211"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1638,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 422",
+            "change_fee": "Change fee: from MYR 85"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 2240,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 211",
+            "change_fee": "No change fees"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    },
+    {
+      "flight_id": "2-11",
+      "airline": "Singapore Airlines",
+      "flight_number": null,
+      "aircraft": null,
+      "route": {
+        "departure": {
+          "airport": "KUL",
+          "terminal": "T1",
+          "city": null,
+          "time": "10:40",
+          "date": null
+        },
+        "arrival": {
+          "airport": "DAC",
+          "terminal": "T2",
+          "city": null,
+          "time": "22:40",
+          "date": null
+        }
+      },
+      "duration": "14h",
+      "amenities": [
+        "charging",
+        "meal",
+        "wifi",
+        "entertainment"
+      ],
+      "co2_reduction": null,
+      "availability_warning": null,
+      "base_price": 1233,
+      "fare_options": [
+        {
+          "fare_type": "Economy class Recommended",
+          "price": 1233,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 883",
+            "change_fee": "Change fee: from MYR 883"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1241,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 632",
+            "change_fee": "Change fee: from MYR 211"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1711,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 422",
+            "change_fee": "Change fee: from MYR 85"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 2331,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 211",
+            "change_fee": "No change fees"
+          }
+        },
+        {
+          "fare_type": "Economy class",
+          "price": 1248,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 632",
+            "change_fee": "Change fee: from MYR 211"
+          }
+        },
+        {
+          "fare_type": "Business",
+          "price": 4205,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Non-refundable (partial tax refund only)",
+            "change_fee": "Change fee: from MYR 1,683"
+          }
+        },
+        {
+          "fare_type": "Business",
+          "price": 5049,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: from MYR 632",
+            "change_fee": "Change fee: from MYR 422"
+          }
+        },
+        {
+          "fare_type": "Business",
+          "price": 5718,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": "Cancellation fee: MYR 21.00 (Within 24h)",
+            "change_fee": "No change fees"
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        },
+        {
+          "fare_type": null,
+          "price": null,
+          "original_price": null,
+          "selected": false,
+          "baggage": {
+            "carry_on": null,
+            "checked": null
+          },
+          "flexibility": {
+            "cancellation_fee": null,
+            "change_fee": null
+          }
+        }
+      ]
+    }
+  ]
+}
